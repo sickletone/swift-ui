@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/Kiwisense/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sickletone/swift-ui/refs/heads/main/Library.lua"))()
 
 --
 -- Example
