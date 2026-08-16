@@ -1,6 +1,5 @@
 --[[
     kiwisense
-    Made by samet
 
     assign different flags to each element to prevent from configs overriding eachother
     example is at the bottom
