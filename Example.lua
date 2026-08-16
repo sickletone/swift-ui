@@ -5,7 +5,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sickl
 do
     local Window = Library:Window({
         Name = "kiwisense",
-        Version = "v2.1",
+        Version = "v1.0",
         Logo = "135215559087473",
         FadeSpeed = 0.25,
         --Size = UDim2.new(0, 659, 0, 511)
